@@ -1,0 +1,3 @@
+I learnt git today
+This is the first try.
+Add something
